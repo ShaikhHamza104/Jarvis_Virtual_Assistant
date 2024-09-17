@@ -129,6 +129,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+# Ignore the secret keys file
+secret_key.py
 
 # Spyder project settings
 .spyderproject
